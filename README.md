@@ -84,12 +84,11 @@ This flowchart illustrates the workflow of the Heart Disease Prediction System f
 
 ## 🚀 Future Improvements
 
-* Use advanced models like Random Forest or XGBoost
-* Deploy as a web application
-* Integrate real-time health monitoring data
+* Use advanced models like Random Forest or XGBoost.
+* Deploy as a web application.
+* Integrate real-time health monitoring data.
 
 ---
 
 
 
-That version makes your repo look **internship & recruiter ready** 🚀.
