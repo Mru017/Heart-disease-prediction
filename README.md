@@ -64,10 +64,8 @@ The dataset used in this project is the **Heart Disease Dataset** containing med
 
 ## 🧭 System Flowchart
 
-
-```markdown
 ![System Flowchart](https://github.com/Mru017/Heart-disease-prediction/blob/danger-zone/Heart_disease_workflow.png)
-```
+
 
 This flowchart illustrates the workflow of the Heart Disease Prediction System from data preprocessing to prediction output.
 
