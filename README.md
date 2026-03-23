@@ -41,7 +41,7 @@ The dataset used in this project is the **Heart Disease Dataset** containing med
 3. Run the application: python app.py
 
 4. Open your browser and go to: http://127.0.0.1:7860
-
+![Heart Disease Prediction UI](heart-disease-ui.png)
 ---
 ## ⚙️ Technologies Used
 
