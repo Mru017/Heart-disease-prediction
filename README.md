@@ -36,13 +36,11 @@ The dataset used in this project is the **Heart Disease Dataset** containing med
 
 1. Download or clone this repository
 
-2. Install required dependencies:pip install -r requirements.txt
+2. Install required dependencies: pip install -r requirements.txt
 
 3. Run the application: python app.py
 
-4. Open your browser and go to:
-
-http://127.0.0.1:7860
+4. Open your browser and go to: http://127.0.0.1:7860
 
 ---
 ## ⚙️ Technologies Used
